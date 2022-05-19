@@ -1,5 +1,5 @@
-#ifndef _PlanetXULTRASONIC_H_
-#define _PlanetXULTRASONIC_H_
+#ifndef _PLANETXULTRASONIC_H_
+#define _PLANETXULTRASONIC_H_
 
 #include "RJPins.h"
 
